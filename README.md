@@ -2,7 +2,7 @@
 
 A collection of brainteasers, mental math drills, probability puzzles, and technical intuition problems relevant to quantitative trading, research, and risk roles.
 
-## 🧠 What’s Included
+## What’s Included
 
 This repo helps build speed and clarity for quant interviews — especially when working without paper.
 
@@ -20,7 +20,7 @@ This repo helps build speed and clarity for quant interviews — especially when
 
 ---
 
-## 🗂 Directory Structure
+## Directory Structure
 
 ```text
 quant-reasoning/
@@ -38,6 +38,6 @@ quant-reasoning/
 ```
 ---
 
-## 💡 Goal
+## Goal
 
 Building and reinforcing mental models for interview-ready patterns. Obviously in short time, no calculator no code. (but will be implementations in python for practice too!)
